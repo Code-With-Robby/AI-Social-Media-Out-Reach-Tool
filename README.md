@@ -37,17 +37,17 @@ This project provides an AI-powered tool to create personalized outreach message
    ```
 
    When prompted to "select a provider to set up," type **3** and press Enter.  
-   [image here] <img width="1406" height="674" alt="Screenshot 2026-02-15 at 3 43 51 PM" src="https://github.com/user-attachments/assets/1725969b-3d56-425f-8092-bdb69cda8835" />
+ <img width="1406" height="674" alt="Screenshot 2026-02-15 at 3 43 51 PM" src="https://github.com/user-attachments/assets/1725969b-3d56-425f-8092-bdb69cda8835" />
 
 
    You will then be asked to select a Gemini model. Choose any model for now (we'll update it manually later).  
-   [image here]
+<img width="1406" height="674" alt="Screenshot 2026-02-15 at 3 45 22 PM" src="https://github.com/user-attachments/assets/dce9d7dc-57a2-4ae4-86f6-b587c2380610" />
 
    Paste your **GEMINI API Key** (from the tutorial above) when prompted.  
-   [image here]
+<img width="1406" height="674" alt="Screenshot 2026-02-15 at 3 46 26 PM" src="https://github.com/user-attachments/assets/86a77c23-1705-4f69-a722-863ec5fa87d3" />
 
    You should see the message: "Crew social_media_manager created successfully!"  
-   [image here]
+<img width="1102" height="674" alt="Screenshot 2026-02-15 at 3 50 06 PM" src="https://github.com/user-attachments/assets/bae8f430-6adf-4024-b70b-af0a3cbb14d7" />
 
 ## Configuration
 
@@ -57,7 +57,7 @@ Open the **.env** file and update the model variable:
 MODEL=gemini/gemini-2.5-flash
 ```
 
-[image here]
+<img width="534" height="530" alt="Screenshot 2026-02-15 at 3 53 46 PM" src="https://github.com/user-attachments/assets/7777a567-4324-4edf-9b69-83a04768d33b" />
 
 **Note:** The `.env` file might be hidden. Click the eye icon to reveal hidden files.
 
@@ -67,7 +67,7 @@ Add your **Serper API key** for research functionality:
 SERPER_API_KEY=[Enter your API KEY here]
 ```
 
-[image here]
+<img width="1546" height="530" alt="image" src="https://github.com/user-attachments/assets/b68d2489-2928-46dd-b97f-01a4d64c2fd8" />
 
 Alternatively, you can copy and paste the `.env` file included in this repository.
 
@@ -81,7 +81,7 @@ Copy the following files from this repository into your Google Colab environment
 - `tasks.yaml`
 
 Paste each file into its respective location in Colab.  
-[image here]
+<img width="414" height="902" alt="image" src="https://github.com/user-attachments/assets/cafd9f55-30b6-4cc2-8059-dd017a203929" />
 
 ## Running the Tool
 
@@ -99,6 +99,9 @@ You will be prompted for three pieces of information:
 - Your YouTube channel name  
 - The name of the person/creator you want to contact  
 
-[image here]
+<img width="814" height="261" alt="Screenshot 2026-02-15 at 4 13 21 PM" src="https://github.com/user-attachments/assets/af4e8895-e058-47f3-97bb-dccf0056564f" />
 
 The final output will be a personalized DM that you can copy and paste from the terminal or from a file called `generated_dm.txt` in your Google Colab environment directory. You can send this message to the person you are trying to get an interview with.
+
+<img width="814" height="261" alt="Screenshot 2026-02-15 at 4 13 21 PM" src="https://github.com/user-attachments/assets/f466884c-271d-4b98-afd7-ff0dcdf5726a" />
+
