@@ -16,7 +16,7 @@ This project provides an AI-powered tool to create personalized outreach message
 ## Prerequisites
 
 1. **Google AI API Key** – Free to obtain and use. Tutorial: [https://youtu.be/yZN5a12CZD8](https://youtu.be/yZN5a12CZD8)  
-2. **Serper.dev API Key** – Free to obtain and use. Tutorial: [link to be added later]  
+2. **Serper.dev API Key** – Free to obtain and use. Tutorial: Go to serper.dev -> sign up/in -> get FREE API KEY  
 
 ---
 
@@ -25,10 +25,8 @@ This project provides an AI-powered tool to create personalized outreach message
 > **Side Note:** All steps assume you are working in a **Google Colab Notebook** for simplicity and speed.
 
 1. Open [Google Colab](https://colab.research.google.com/).  
-   [image of Colab homepage here]
 
 2. Create a new notebook.  
-   [image of fresh notebook here]
 
 3. Copy and paste the following commands into a cell:
 
@@ -39,7 +37,8 @@ This project provides an AI-powered tool to create personalized outreach message
    ```
 
    When prompted to "select a provider to set up," type **3** and press Enter.  
-   [image here]
+   [image here] <img width="1406" height="674" alt="Screenshot 2026-02-15 at 3 43 51 PM" src="https://github.com/user-attachments/assets/1725969b-3d56-425f-8092-bdb69cda8835" />
+
 
    You will then be asked to select a Gemini model. Choose any model for now (we'll update it manually later).  
    [image here]
