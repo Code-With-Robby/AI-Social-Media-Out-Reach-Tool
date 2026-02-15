@@ -103,5 +103,5 @@ You will be prompted for three pieces of information:
 
 The final output will be a personalized DM that you can copy and paste from the terminal or from a file called `generated_dm.txt` in your Google Colab environment directory. You can send this message to the person you are trying to get an interview with.
 
-<img width="814" height="261" alt="Screenshot 2026-02-15 at 4 13 21 PM" src="https://github.com/user-attachments/assets/f466884c-271d-4b98-afd7-ff0dcdf5726a" />
+<img width="1818" height="753" alt="Screenshot 2026-02-15 at 4 28 25 PM" src="https://github.com/user-attachments/assets/ca7352fd-f753-448a-aff6-ac14ff677a20" />
 
