@@ -2,6 +2,8 @@
 
 This project provides an AI-powered tool to create personalized outreach messages for social media. It is designed to be **general-purpose**, allowing users to input their niche, YouTube channel, and the person or creator they want to contact. The tool automatically researches the target and generates a concise, professional, and personalized direct message.
 
+
+## Full Walthrough tutorial on how to set this up: https://youtu.be/rCkELyj_Dfw?si=KkZOkwj17B5uYYax
 ---
 
 ## Features
